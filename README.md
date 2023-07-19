@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./[[Your header image]([(https://github.com/duartenunocosta/duartenunocosta/blob/main/header.png?raw=true))])
+![Header](./[Your header image])
 - 🌱 I’m currently learning Java!
 - [![MasterHead]([your image link](https://github.com/duartenunocosta/duartenunocosta/blob/main/header.png))]([your GitHub link](https://github.com/duartenunocosta))
 <!--
