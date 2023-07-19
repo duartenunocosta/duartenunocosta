@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/duartenunocosta/duartenunocosta/main/header.png)
-<h6 align="center">A passionate backend developer student from Portugal</h6>
+<h5 align="center">A passionate backend developer student from Portugal</h5>
 
 - 🌱 I’m currently learning **Java**
 
