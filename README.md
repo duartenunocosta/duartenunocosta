@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java!
+- [![MasterHead]([your image link](https://github.com/duartenunocosta/duartenunocosta/blob/main/header.png))]([your GitHub link](https://github.com/duartenunocosta))
 <!--
 **duartenunocosta/duartenunocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
