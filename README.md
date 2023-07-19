@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/duartenunocosta/duartenunocosta/main/transferir.png](https://raw.githubusercontent.com/duartenunocosta/duartenunocosta/main/header.png)
+![Header](https://raw.githubusercontent.com/duartenunocosta/duartenunocosta/main/header.png)
 <h2 align="center">A passionate backend developer student from Portugal</h2>
 
 - 🌱 I’m currently learning **Java**
