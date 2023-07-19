@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![header]([your image link](https://github.com/duartenunocosta/duartenunocosta/blob/main/header.png?raw=true))]([your GitHub link](https://github.com/duartenunocosta))
-
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://github.com/duartenunocosta/duartenunocosta/blob/main/header.png?raw=true)">
 <!--
 **duartenunocosta/duartenunocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
