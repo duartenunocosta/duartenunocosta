@@ -1,7 +1,6 @@
 ![Header](https://raw.githubusercontent.com/duartenunocosta/duartenunocosta/main/header.png)
 <h5 align="center">A passionate backend developer from Portugal</h5>
 <hr>
-- 🌱 Java
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
